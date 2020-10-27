@@ -26,25 +26,25 @@ date_format: Jan 2006
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Smart Domain"
-  organization_url = "http://smartdomain.com.mx/"
-  title = "Smart Domain"
-   url = "http://smartdomain.com.mx/"
+  organization = Smart Domain
+  organization_url = http://smartdomain.com.mx/
+  title = Smart Domain
+   url = http://smartdomain.com.mx/
   # certificate_url = "https://www.edx.org"
   date_start = "2020-04-27"
   date_end = ""
-  description = "Hice mi primera empresa sobre servicios de desarrollo web y marketing digital"
+  description = Hice mi primera empresa sobre servicios de desarrollo web y marketing digital
   
 
 [[item]]
-  organization = "Nova"
-  organization_url = "https://www.coursera.org"
-  title = "Curso de Oracle"
+  organization = Nova
+  organization_url = https://www.coursera.org
+  title = Curso de Oracle
   url = ""
-  certificate_url = "https://www.coursera.org"
+  certificate_url = https://www.coursera.org
   date_start = "2020-04-01"
   date_end = "2020-04-04"
-  description = "Logre completar un curso de Oracle que me proporciono la empresa"
+  description = Logre completar un curso de Oracle que me proporciono la empresa
 
 # [[item]]
 #  organization = "Empezar con el trading"
