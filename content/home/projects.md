@@ -22,12 +22,12 @@ subtitle = ""
   filter_default = 0
   
   # [[content.filter_button]]
-    name = "Todo"
-    tag = "*"
+  #   name = "Todo"
+  #   tag = "*"
   
   # [[content.filter_button]]
-     name = "En Desarrollo"
-     tag = "Desarrollo"
+  #   name = "Deep Learning"
+  #   tag = "Deep Learning"
   
   # [[content.filter_button]]
   #   name = "Other"
