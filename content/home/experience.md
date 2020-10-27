@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
-subtitle = ""
+subtitle = "Experiencia"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -18,27 +18,27 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Desarrollador Web"
+  company = "Nova"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Mexico"
+  date_start = "2020-01-01"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Desarrollador web
+  * Administrador de Base de datos
+  * Administrador de Servidor
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Freelancer"
+  company = "Propia"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Mexico"
+  date_start = "2020-01-01"
+  date_end = "2020-02-02"
+  description = """Desarrolle varios servicios para grandes compañias """
 
 +++
