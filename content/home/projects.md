@@ -22,16 +22,16 @@ subtitle = ""
   filter_default = 0
   
   # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*"
+    name = "Todo"
+    tag = "*"
   
   # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
+     name = "En Desarrollo"
+     tag = "Desarrollo"
   
   # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
+     name = "Terminado"
+     tag = "Terminado"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -45,7 +45,7 @@ subtitle = ""
   view = 3
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows = false
+  flip_alt_rows = true
 
 [design.background]
   # Apply a background color, gradient, or image.

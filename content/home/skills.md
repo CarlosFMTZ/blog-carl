@@ -6,30 +6,44 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Skills"
-subtitle = ""
+subtitle = "Habilidades"
 
 # Showcase personal skills or business features.
 # 
 # Add/remove as many `[[feature]]` blocks below as you like.
 # 
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "java"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Java"
+  description = "40%"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  icon = "node-js"
+  icon_pack = "fab"
+  name = "Desarrollo Web"
+  description = "40%"  
   
+
+[[feature]]
+  icon = "ethereum"
+  icon_pack = "fab"
+  name = "Trade"
+  description = "20%"  
+  
+[[feature]]
+  icon = "yoast"
+  icon_pack = "fab"
+  name = "Marketing Digital"
+  description = "40%"
+
+
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
-  name = "Photography"
+  name = "Fotografia"
   description = "10%"
 
 # Uncomment to use emoji icons.
