@@ -13,7 +13,7 @@ headless: true
 weight: 80
 
 title: Featured Publications
-subtitle: ""
+subtitle: "Publicaciones destacadas"
 
 content:
   # Page type to display. E.g. post, talk, publication...

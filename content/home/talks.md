@@ -13,7 +13,7 @@ headless: true
 weight: 70
 
 title: Recent & Upcoming Talks
-subtitle:
+subtitle: "Charlas recientes y próximas"
 
 content:
   # Page type to display. E.g. post, talk, publication...
